@@ -49,7 +49,7 @@ If using Google Colab, comment the initial install code, any code marked for Col
 
 If using with a non-Colab IDE, comment the initial install code and any code marked for Colab in the comments and uncomment any non-Colab code. All holoviews extensions can optionally be commented.
 
-This project is primarily intended to be used as an analysis and forecasting of the data. The code can be reused to help analyze any data as long as proper data import and setup is done.
+This project is primarily intended to be used as an analysis and forecasting of the data. The code can be reused to help analyze any data as long as proper data import and setup is done. To reuse the code, it is advised to change out csv files with ones containing proper data. Modification of code may be necessary to prepare data for usage by the Prophet library. All analysis sections, which contain no code, will need to be removed or changed to fit new data.
 
 ---
 
