@@ -61,4 +61,4 @@ Brought to you by Majid Kouki. You can reach me at [majidkpy@gmail.com](mailto:m
 
 ## License
 
-MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
